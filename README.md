@@ -14,7 +14,7 @@
 - Генерация меню на неделю с учётом индивидуальных параметров  
 - Проверка даты генерации, новое меню каждую неделю  
 - Возможность диалога с ИИ в свободной форме  
-- Интеграция с базой данных (запись меню, запись диалогов)  
+- Интеграция с базой данных (запись меню, запись диалогов, LightCRM)  
 
 ---
 
@@ -28,9 +28,9 @@
 ---
 
 ## 📸 Скриншоты 
-👉 [Работа в Telegram](https://github.com/annutte/Biflex_Event_bot/blob/main/img/biflex_event_bot.png)  
-👉 [Реализация в n8n – версия с Grist](https://github.com/annutte/Biflex_Event_bot/blob/main/img/biflex_event_bot_grist_tg_n8n.png)  
-👉 [Реализация в n8n – версия с Google Sheets](https://github.com/annutte/Biflex_Event_bot/blob/main/img/event_bot_main_wf.jpg)  
+👉 [Работа в Telegram](https://github.com/annutte/Nutri_bot/blob/main/img/telegram_nutri_bot.jpg)  
+👉 [Реализация в n8n](https://github.com/annutte/Nutri_bot/blob/main/img/n8n_nutri_bot.jpg)  
+👉 [LightCRM в Grist](https://github.com/annutte/Biflex_Event_bot/blob/main/img/biflex_event_bot_grist_tg_n8n.png)
 
 ---
 
