@@ -30,7 +30,7 @@
 ## 📸 Скриншоты 
 👉 [Работа в Telegram](https://github.com/annutte/Nutri_bot/blob/main/img/telegram_nutri_bot.jpg)  
 👉 [Реализация в n8n](https://github.com/annutte/Nutri_bot/blob/main/img/n8n_nutri_bot.jpg)  
-👉 [LightCRM в Grist](https://github.com/annutte/Biflex_Event_bot/blob/main/img/biflex_event_bot_grist_tg_n8n.png)
+👉 [LightCRM в Grist](https://github.com/annutte/Nutri_bot/blob/main/img/grist_light_crm.jpg)
 
 ---
 
