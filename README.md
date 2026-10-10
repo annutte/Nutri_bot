@@ -34,11 +34,6 @@
 
 ---
 
-## 🚀 Протестировать бота
-👉 [Открыть в телеграм ↗](https://t.me/nutri_assist_bot)  
-
----
-
 ## ⚙️ Технологический стек
 - Prompt Igineering
 - Telegram Bot API 
